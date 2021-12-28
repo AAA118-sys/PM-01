@@ -1,0 +1,15 @@
+h1{
+text-align:left;
+font-family: "Arial", Bold;
+font-style: italic;  
+font-size: 24px;
+text-decoration: underline;
+}
+
+}
+p{
+border: 1px solid red;
+padding: 10px;
+margin: 0px 0px 0px 110px;
+background-color: BurlyWood; /*Задание абзацев в цифровом формате*/
+}
